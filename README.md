@@ -12,10 +12,13 @@ I'm an AI solutions developer with a passion for creating innovative AI tools an
 
 ## Experience and Education
 - **AI Solutions Developer** (2023 - Present)
-- **Certifications:**
-  - IBM’s Python for AI & Development Project
-  - Azure’s Fundamental AI Concepts
-  - Azure’s Fundamentals of Text Analysis with the Language Service
+- **Certifications and Courses:**
+  - Microsoft Certified: Azure AI Engineer Associate (Valid until 08/2025)
+  - IBM’s Python for AI & Development Project Certification
+  - Azure’s Deploy and Run a Containerized Web App with Azure App Service
+  - PyTorch for Deep Learning & Machine Learning by Daniel Bourke
+  - Full Python Basic Course by Bro Code
+
 
 ## Contact Information
 - **Email:** [nemole1407@gmail.com](mailto:nemole1407@gmail.com)
