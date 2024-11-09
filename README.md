@@ -8,6 +8,7 @@ I'm an AI solutions developer with a passion for creating innovative AI tools an
 
 ## Public Projects
 - **[Civil3D AI Assistant](https://github.com/Namle-git/Civil_3D_AI_Assistant)**: A tool that compiles information from Civil3D documentation and forums to generate troubleshooting steps.
+  - [Demo](https://civil3daiassitant.azurewebsites.net)
 - **[U_net_recreation](https://github.com/Namle-git/U_net_recreation)**: A recreation of the U_net architechture from the original publication and testing it on a segmentation dataset.
 
 ## Experience and Education
