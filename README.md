@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Nam Le!
-I'm an AI solutions developer with a passion for creating innovative AI tools and applications. I have experience in AI in business application and am currently interested in AI use case in medical devices.
+I'm an AI solutions developer with a passion for creating innovative AI tools and applications. I have experience in AI in business application and am currently interested in AI agent use cases and AI application security.
 
 ## Skills and Technologies
 - **Programming Languages:** Python, JavaScript
